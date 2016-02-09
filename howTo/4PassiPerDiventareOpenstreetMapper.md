@@ -1,5 +1,5 @@
 # 4 passi per diventare un OpenStreetMapper #
-(pubblicato su [Startup Calabria](http://www.startupcalabria.com) il 28 febbraio 2014)
+(pubblicato su [Startup Calabria](http://www.startupcalabria.com) il *28 febbraio 2014*)
 ## Cos’è?
 Openstreetmap è un progetto di mappe collaborative che mira a diventare il Wikipedia del settore.
 Direttamente nel suo sito possiamo leggere *“OpenStreetMap è una mappa liberamente modificabile dell'intero pianeta. È fatta da persone come te. OpenStreetMap permette a chiunque sulla Terra di visualizzare, modificare ed utilizzare dati geografici con un approccio collaborativo”*.
