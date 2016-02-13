@@ -8,7 +8,7 @@ Abbiamo dedicato l'ultimo articolo dell'anno scorso a una storia che arrivava da
 
 Tra i fautori del progetto ci sono tante persone note tra gli attivisti delle varie community che si occupano di open data come [Andrea Nelson Mauro](https://twitter.com/nelsonmau), [Chiara Ciociola](https://twitter.com/chiaracio), [Andrea Borruso](https://twitter.com/aborruso), [Alessio Cimarelli](https://twitter.com/jenkin27) e tanti altri che vi invito a scoprire nella sezione [about di Confiscati Bene](http://www.confiscatibene.it/it/chi-siamo).
 L'idea, come ci racconterà Andrea Borruso, con il quale abbiamo fatto una chiacchierata, nasce durante il raduno 2014 di [SOD](http://www.spaghettiopendata.org/) (di cui anche io sono utente, non proprio attivissimo, diciamo in sola lettura). Quest'anno, durante SOD2015, si sono quindi tirate le somme di un progetto che ha avuto un forte riscontro su tutto il territorio nazionale con articoli su testate di quasi tutte le regioni ([qui trovate tutti gli articoli](http://www.confiscatibene.it/it/blog/confiscati-bene-su-19-giornali-del-gruppo-lespresso-inchiesta-di-data-journalism-di-dataninja#.VrNeCkI2fNO)).
- Purtroppo, nessuna testata giornalistica calabrese dimostrò interesse a scrivere del progetto e a pubblicare la mappa dei beni confiscati alle mafie in Calabria. Perchè, allora, non diffonderla attraverso il blog di Startup Calabria inserendola nella rubrica #dataculture?
+Purtroppo, nessuna testata giornalistica calabrese dimostrò interesse a scrivere del progetto e a pubblicare la mappa dei beni confiscati alle mafie in Calabria. Perchè, allora, non diffonderla attraverso il blog di Startup Calabria inserendola nella rubrica #dataculture?
 Detto, fatto. C'è voluto solo un tweet per contattare i ragazzi di Confiscati Bene, che sono stati disponibilissimi e felici di raccontare la loro storia.
 
 **Ciao Andrea [Borruso]! È un piacere averti come ospite della nostra rubrica #dataculture. Per chi ancora non ti conoscesse, puoi spiegarci di cosa ti occupi e di come nasce la tua passione per gli open data?**
@@ -72,8 +72,6 @@ Partecipare, informarsi, lavorare in gruppo, costruire iniziative sulla traspare
 
 È a un punto di stanchezza. Siti e portali nuovi o rifatti non cambiano la sostanza: bisogna pubblicare i dati e pubblicare dati di qualità, evitare che gli Opendata siano solo keyword del marketing (cosa legittima, per carità) ma prima di fare marketing occorre pubblicare buoni dati. Poi puoi andare in giro a dirlo.
 Ad esempio: perché i siti dei Comuni pubblicano spesso l’elenco dei parchi in città ma non i dati sulla raccolta differenziata? I primi, sui parchi, li conosciamo. Se conoscessimo i secondi, sulla differenziata, avremmo uno strumento per misurare l’efficienza del sistema, cercare di migliorarlo. Per capire come siamo messi in Italia, basta andare su [http://www.dati.gov.it/](http://www.dati.gov.it/) e cercare “raccolta differenziata”: il risultato è sconsolante.
-
- 
 
 **Sul portare c'è l'opzione "Partecipa", è possibile, e se sì in che modo, entrare a far parte del team?**
 
