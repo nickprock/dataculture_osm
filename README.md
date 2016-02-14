@@ -13,4 +13,5 @@ Questo libro è pubblicato con licenza Creative Commons BY-SA. Se vuoi contribui
 ![immagine](link_immagine)
 [testo](link)
   1. elenco numerato
+  - elenco puntato
 ```
