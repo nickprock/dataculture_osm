@@ -26,7 +26,7 @@ Passiamo ora su **TimeMapper**. Premesso che si può usare tranquillamente senza
 
 ![timemapper5](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper-5.png)
 
-![timemapper6](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper-6.png)
+![timemapper6](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper6.png)
 
 I passi sono semplici:
   - incolliamo il link del nostro curriculum
@@ -36,10 +36,10 @@ I passi sono semplici:
   - scegliamo da quale data fare partire, nel caso CV io direi dall'ultima
   - **CREA!**
 
-![timemapper7](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper-7.png)
+![timemapper7](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper7.png)
 
 Ora possiamo goderci il nostro cv interattivo.
 
-![timemapper8](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper-8.png)
+![timemapper8](https://github.com/nickprock/dataculture_osm/blob/master/img/timemapper8.png)
 
 La potenza di TimeMapper è che man mano che si arricchisce il doc anche la TimeMap si aggiorna in automatico, e tutto può essere condiviso e integrato tramite iframe.
