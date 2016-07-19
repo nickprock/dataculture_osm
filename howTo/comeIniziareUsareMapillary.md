@@ -1,4 +1,5 @@
-## Come iniziare a usare Mapillary ##
+# Come iniziare a usare Mapillary #
+(pubblicato su [Startup Calabria](http://www.startupcalabria.com/iniziare-usare-mapillary/) il *28 Maggio 2016*)
 
 Le belle giornate stanno per iniziare e quindi mi sembra giusto parlarvi di una cosa che è rimasta nel cassetto per qualche mese: **Mapillary**.
 Ma andiamo con ordine. Quando parlo con qualcuno di [OSM](www.openstreetmap.org) e cerco di invogliarlo a mappare la sua zona ho notato che la conversazione si svolge sempre in due fasi:
