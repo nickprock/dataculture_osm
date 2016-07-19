@@ -14,3 +14,13 @@ La [guida di come si utilizza sta qui](https://github.com/mapillary/UserGuide), 
 - START!
 
 ![mapillary01](https://github.com/nickprock/dataculture_osm/blob/master/img/Mapillary01.png)
+
+INIZIA A MAPPARE!
+Quando hai finito troverai tutte le sequenze nei feed (nulla rimane sulla memoria del telefono), ora bisogna caricare le foto su Mapillary:
+- accedi ad una rete wi-fi e carica le foto, dal menù Feed;
+- dal portale vai su edit e assicurati che le persone e le targhe delle auto che hai casualmente inquadrato vengano oscurate, oppure aggiungi didascalie alle foto;
+- vai su explore, cerca le sequenze, click su play e goditi il tuo lavoro!!!
+
+![mapillary02](https://github.com/nickprock/dataculture_osm/blob/master/img/Mapillary02.png)
+
+ Una volta che avrete finito dal tasto share potete condividere le vostre sequenze sui social.
