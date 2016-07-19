@@ -1,4 +1,4 @@
-## OpenData Reggio Calabria: una chiaccherata con l’assessore Agata Quattrone ##
+# OpenData Reggio Calabria: una chiaccherata con l’assessore Agata Quattrone #
 (pubblicato su [Startup Calabria](http://www.startupcalabria.com/opendata-reggio-calabria-una-chiaccherata-con-lassessore-agata-quattrone/) il *27 Febbraio 2016*)
 
 Ad una settimana da ODDIt2016 niente tutorial ma diamo un caloroso benvenuto ad [Agata Quattrone](http://it.linkedin.com/in/quattroneagata), che è stata molto disponibile nel rispondere alle nostre domande.
