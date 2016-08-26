@@ -54,6 +54,7 @@ Nell'immagine successiva si può vedere il risultato del nostro lavoro fatto in 
 Andando su condividi abbiamo sia il [link della mappa](http://umap.openstreetmap.fr/en/map/beni-archeologici-agonizzanti_27736#9/38.8900/16.4053) che il codice per inserire l'iframe nei nostri siti e blog, oppure possiamo scaricare i dati della mappa in modo molto veloce.
 
 ##Mappe con Overpass-Turbo e uMap##
+(pubblicato su [Startup Calabria](http://www.startupcalabria.com) il *28 Novembre 2015*)
 
 Per creare questa tipologia di mappa utilizzeremo [Overpass-Turbo](http://overpass-turbo.eu/), un'interfaccia web per utilizzare ed esportare i risultati delle query overpass. Queste query (di sola lettura) sfruttano le API di OpenStreetMap selezionando parte del suo immenso database per restituirci dei risultati che possono essere esportati per creare altri progetti e servizi ([per saperne di più vi rimando alla pagina wiki](wiki.openstreetmap.org/wiki/Overpass_turbo)).
 
