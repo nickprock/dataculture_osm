@@ -1,5 +1,5 @@
 #uMap: crea e condividi le tue mappe open in 10 minuti#
-##Mappe fisse##
+##Mappe da CSV##
 (pubblicato su [Startup Calabria](http://www.startupcalabria.com) il *31 ottobre 2015*)
 
 **uMap** è un software open source con licenza [WTFPL](https://it.wikipedia.org/wiki/WTFPL) che consente di creare mappe che fanno uso dei layer di openstreetmap come sfondo.
@@ -52,3 +52,41 @@ Nell'immagine successiva si può vedere il risultato del nostro lavoro fatto in 
 ![umap07](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap07.png)
 
 Andando su condividi abbiamo sia il [link della mappa](http://umap.openstreetmap.fr/en/map/beni-archeologici-agonizzanti_27736#9/38.8900/16.4053) che il codice per inserire l'iframe nei nostri siti e blog, oppure possiamo scaricare i dati della mappa in modo molto veloce.
+
+##Mappe con Overpass-Turbo e uMap##
+
+Per creare questa tipologia di mappa utilizzeremo [Overpass-Turbo](http://overpass-turbo.eu/), un'interfaccia web per utilizzare ed esportare i risultati delle query overpass. Queste query (di sola lettura) sfruttano le API di OpenStreetMap selezionando parte del suo immenso database per restituirci dei risultati che possono essere esportati per creare altri progetti e servizi ([per saperne di più vi rimando alla pagina wiki](wiki.openstreetmap.org/wiki/Overpass_turbo)).
+
+![umap08](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap08.png)
+
+Per prima cosa dobbiamo sapere cosa vogliamo cercare (nel nostro caso utilizzerò un mio vecchio progetto) Andiamo su OpenStreetMap e inseriamo una keyword, ad esempio, se vogliamo creare una mappa di tutte le farmacie calabresi nel motore di ricerca inseriamo 'Farmacia'.
+
+![umap09](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap09.png)
+
+OpenStreetMap ci restituisce una serie di risultati, ne prendiamo uno a caso e controlliamo i tag.
+
+![umap10](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap10.png)
+
+Vediamo che il tag per le farmacie e parafarmacie è "amenity"="pharmacy", ma cosa distingue farmacie e parafarmacie? Un altro [tag, dispensing](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy), questo indica se hanno farmaci con ricetta medica o no, quindi a noi servono quelle "dispensing"="yes".
+Torniamo su Overpass e cerchiamo wizard sulla barra degli strumenti.
+
+![umap11](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap11.png)
+
+Il wizard è il modo più semplice di costruire query overpass, inseriamo ciò che ci serve, quindi: **"amenity"="pharmacy" and "dispensing"="yes" in Calabria** e Overpass-Turbo ci scriverà la query nel suo editor. Non ci resta che cliccare su **Esegui** e attendere i risultati.
+
+![umap12](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap12.png)
+
+![umap13](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap13.png)
+
+Una volta ottenuti i risulati andiamo su **Esporta** e scegliamo **"dati grezzi direttamente da Overpass API"**. Si apre un'altra pagina con il file. A noi serve solo l'indirizzo di questa pagina, quindi, lo copiamo.
+Apriamo uMap col nostro account e creiamo una nuova mappa.
+Andiamo ad importare i dati incollando l'indirizzo del JSON di Overpass-Turbo in **"Aggiungi un URL qui"**, poi scegliamo tra i formati **osm**. Dovrebbero apparire tutti i pin sulla mappa.
+
+![umap14](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap14.png)
+
+Personalizzate il tutto (colori, icone, layer,…) come preferite.
+Una volta finita la personalizzazione andate sul menù che vi indica i livelli, e click su **"Edit"** (la matita), si aprirà un nuovo menù sulla destra, da qui scegliete **"type of layer"** cluster per raggruppare i pin man mano che ci si allontana con lo zoom.
+
+![umap15](https://github.com/nickprock/dataculture_osm/blob/master/img/uMap15.png)
+
+Ora la nostra mappa è completa e possiamo condividerla.
